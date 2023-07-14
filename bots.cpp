@@ -1,16 +1,3 @@
-/*Authors:
-Yan Ho[RedID: 826654745]
-Yan Ho Edoras: cssc1429
-Jenny Nguyen[RedID: 826622622]
-Jenny Nguyen Edoras: cssc1451
-
-Course
-- CS 480 Summer 2023 Section 01
-- Programming Assignment #1 (a1)
-*/
-
-#include "bots.h"
-
 
 // Function to be run by each thread
 void* PrintHello(void* threadarg) {
