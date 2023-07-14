@@ -5,11 +5,6 @@ Yan Ho Edoras: cssc1429
 Jenny Nguyen[RedID: 826622622]
 Jenny Nguyen Edoras: cssc1451
 
-Course
-- CS 480 Summer 2023 Section 01
-- Programming Assignment #1 (a1)
-*/
-
 README.txt
 
 Files:
