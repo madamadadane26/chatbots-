@@ -1,18 +1,4 @@
-# chatbots-
-/*Authors:
-Yan Ho[RedID: 826654745]
-Yan Ho Edoras: cssc1429
-Jenny Nguyen[RedID: 826622622]
-Jenny Nguyen Edoras: cssc1451
 
-README.txt
-
-Files:
-    - README.txt
-    - bots.cpp
-    - Makefile
-    - bots.h
-    
 Code Summary:
 Our program, named "bots", creates multiple threads using POSIX threads (pthreads) and handles synchronization between them using semaphores. Each thread writes messages to a file "QUOTE.txt". Depending on their thread ID, threads write different quotes and sleep for different intervals.
 
